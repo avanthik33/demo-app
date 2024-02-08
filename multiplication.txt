@@ -1,0 +1,3 @@
+mult=1
+mult1=2
+multt=mult1+mult
